@@ -1,6 +1,7 @@
 # README #
 
 Tamriel Online (https://www.nexusmods.com/skyrim/mods/67038/?) - An online multiplayer mod for Skyrim.
+This fork is a tentative exploration of how this mod functions aiming to provide documentation and determine feasability of refactoring to ease future updates to achieve compatability with other modules and modifications.
 
 ### Build Dependencies ###
 
